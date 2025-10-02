@@ -1,0 +1,83 @@
+Slide 1 — Title & Objective
+
+Content:
+
+Title: “Sales Forecasting with AI — Business Case”
+
+Subtitle: Galderma — AI in Finance & Analytics Leadership Development Program
+
+Script:
+“Good morning, today I will present my approach to forecasting sales using AI techniques. The goal of this case is to generate accurate sales forecasts and to demonstrate the methodology in a clear and business-relevant way.”
+
+Slide 2 — Dataset Overview
+
+Content:
+
+Historical sales data from 2018–2024 (monthly)
+
+Train: all except last 12 months
+
+Test: last 12 months (used for validation)
+
+Script:
+“I started by exploring the dataset. It contains monthly sales data from 2018 to 2024. To evaluate performance properly, I split the data into training and testing sets: all except the last 12 months for training, and the last 12 months for testing.”
+
+Slide 3 — Methodology
+
+Content:
+
+Models tested:
+
+ARIMA (classical statistical)
+
+Prophet (trend + seasonality)
+
+Steps:
+
+Clean & preprocess data
+
+Train on historical sales
+
+Forecast 12 months ahead
+
+Compare with actual test data
+
+Script:
+“My methodology was to test two complementary forecasting approaches: ARIMA, a statistical model well-suited for time series, and Prophet, an AI-based model that captures seasonality and trends. Both were trained on the historical data, and I forecasted the next 12 months, then compared with actual values.”
+
+Slide 4 — Results
+
+Content:
+
+Line chart: actual sales vs ARIMA vs Prophet forecast
+
+Metrics: RMSE, MAPE
+
+Script:
+“Here you can see the results. Both ARIMA and Prophet captured the overall trend, but Prophet performed slightly better in detecting seasonality. The error metrics, such as RMSE and MAPE, confirmed that the AI-based approach was more accurate for this dataset.”
+
+Slide 5 — Business Insights
+
+Content:
+
+Sales expected to increase/decrease trend
+
+Seasonal peaks and troughs
+
+Reliable forecasting helps in planning inventory, budgeting, and resource allocation
+
+Script:
+“From a business perspective, the forecast shows clear seasonality and a stable upward trend. This means sales planning can anticipate demand peaks and prepare inventory and resources accordingly. Accurate forecasts reduce stockouts and improve financial planning.”
+
+Slide 6 — Conclusion
+
+Content:
+
+Forecasts are reliable within 12 months
+
+Prophet model recommended for production
+
+AI forecasting adds business value by reducing uncertainty
+
+Script:
+“To conclude, AI forecasting provides a robust tool for sales planning. Prophet is recommended due to its strong handling of seasonality. This approach can be scaled to other markets and products, bringing value by reducing uncertainty and supporting data-driven decision-making.”
