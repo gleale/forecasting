@@ -5,7 +5,7 @@ PowerPoint Deck Structure (to prepare after running the notebook)
 
 Slide 1 – Title & Objective
 
-"Sales Forecasting using AI – Galderma Case"
+"Sales Forecasting using AI – Business Case"
 
 Goal: predict next 12 months sales using historical data.
 
