@@ -4,7 +4,7 @@ Content:
 
 Title: “Sales Forecasting with AI — Business Case”
 
-Subtitle: Galderma — AI in Finance & Analytics Leadership Development Program
+Subtitle:  AI in Finance & Analytics Leadership Development Program
 
 Script:
 “Good morning, today I will present my approach to forecasting sales using AI techniques. The goal of this case is to generate accurate sales forecasts and to demonstrate the methodology in a clear and business-relevant way.”
